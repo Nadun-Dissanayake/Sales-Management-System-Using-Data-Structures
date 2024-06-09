@@ -31,3 +31,10 @@ store and retrieve the user’s data as quickly as possible. The programming lan
 using Visual Studio 2020. Most competitive programmers use C++ because it efficiently uses data structures
 and algorithms. That said, the language is just a medium, and any wording we are affluent with is appropriate
 for you to implement DSA
+
+Images
+------------
+![increase sales-804810-edited](https://github.com/Nadun-Dissanayake/Sales-Management-System-Using-Data-Structures/assets/139664686/2ebe6097-ad5a-4a73-91bd-8f992adfc452)
+
+
+
